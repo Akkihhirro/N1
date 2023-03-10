@@ -1,0 +1,11 @@
+C:\Users\minami\source\repos\N1_git\N1-2\N1-2\bin\Release\N1-2.exe.config
+C:\Users\minami\source\repos\N1_git\N1-2\N1-2\bin\Release\N1-2.exe
+C:\Users\minami\source\repos\N1_git\N1-2\N1-2\bin\Release\N1-2.pdb
+C:\Users\minami\source\repos\N1_git\N1-2\N1-2\obj\Release\N1-2.csproj.AssemblyReference.cache
+C:\Users\minami\source\repos\N1_git\N1-2\N1-2\obj\Release\N1-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\minami\source\repos\N1_git\N1-2\N1-2\obj\Release\N1_2.Form1.resources
+C:\Users\minami\source\repos\N1_git\N1-2\N1-2\obj\Release\N1_2.Properties.Resources.resources
+C:\Users\minami\source\repos\N1_git\N1-2\N1-2\obj\Release\N1-2.csproj.GenerateResource.cache
+C:\Users\minami\source\repos\N1_git\N1-2\N1-2\obj\Release\N1-2.csproj.CoreCompileInputs.cache
+C:\Users\minami\source\repos\N1_git\N1-2\N1-2\obj\Release\N1-2.exe
+C:\Users\minami\source\repos\N1_git\N1-2\N1-2\obj\Release\N1-2.pdb
